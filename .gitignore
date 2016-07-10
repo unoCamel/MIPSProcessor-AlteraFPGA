@@ -55,6 +55,9 @@
 *.qdf
 *.json
 *.tmw_info
+*.qsf
+*.qpf
+*.qwf
 
 
 # ignore simulation output of ModelSim
